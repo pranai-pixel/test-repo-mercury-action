@@ -1,1 +1,1 @@
-# test-repo-mercury-action
+Updated README content on default branch
