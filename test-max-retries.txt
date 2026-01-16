@@ -1,0 +1,1 @@
+Testing custom max_retries parameter
