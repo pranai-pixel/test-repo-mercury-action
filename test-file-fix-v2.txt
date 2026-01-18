@@ -1,1 +1,1 @@
-This is test content to verify the fix v2
+This is updated content for the file - testing update functionality
